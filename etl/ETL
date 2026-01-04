@@ -1,0 +1,39 @@
+import pandas as pd
+import numpy as np
+df = pd.read_csv("products.csv", low_memory=False)
+df.columns = (
+    df.columns
+    .str.strip()
+    .str.lower()
+    .str.replace(" ", "_")
+)
+# Remove duplicates
+df.drop_duplicates(subset="productid", inplace=True)
+# Handle missing values (text columns)
+text_cols = [
+    "category", "sub_category", "description_pt", "description_de",
+    "description_fr", "description_es", "description_en", "description_zh",
+    "color", "sizes"
+]
+for col in text_cols:
+    df[col].fillna("Unknown", inplace=True)
+    df[col] = df[col].str.strip().str.title()
+# Fix numeric type
+df["production_cost"] = pd.to_numeric(df["production_cost"], errors="coerce")
+# Handle missing & invalid production cost
+median_cost = df["production_cost"].median()
+df["production_cost"].fillna(median_cost, inplace=True)
+df.loc[df["production_cost"] < 0, "production_cost"] = median_cost
+# Outlier handling (IQR)
+Q1 = df["production_cost"].quantile(0.25)
+Q3 = df["production_cost"].quantile(0.75)
+IQR = Q3 - Q1
+lower = Q1 - 1.5 * IQR
+upper = Q3 + 1.5 * IQR
+df["production_cost"] = np.where(
+    (df["production_cost"] < lower) | (df["production_cost"] > upper),
+    median_cost,
+    df["production_cost"]
+)
+df.to_csv("clean_products.csv", index=False)
+print(df.head())
