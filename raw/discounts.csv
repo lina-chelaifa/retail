@@ -1,0 +1,182 @@
+Start,End,Discont,Description,Category,Sub Category
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2020-01-01,2020-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2020-03-15,2020-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2020-03-15,2020-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2020-03-15,2020-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2020-03-15,2020-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2020-03-15,2020-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,T-shirts and Tops
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Skirts and Shorts
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Dresses and Jumpsuits
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,T-shirts and Polos
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,Pants and Jeans
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Pajamas
+2020-05-01,2020-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Accessories
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Dresses and Jumpsuits
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Shirts and Blouses
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Skirts and Shorts
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Shirts
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Pants and Jeans
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2020-09-01,2020-09-15,0.45,45% discount during our Fall Collection Launch,Children,Coats
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sweaters and Knitwear
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sportswear
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sweaters and Sweatshirts
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sportswear
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Sweaters
+2020-10-01,2020-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Accessories
+2020-11-27,2020-11-27,0.6,60% discount during our Black Friday Mega Sale,,
+2020-12-20,2020-12-31,0.5,50% discount during our Holiday Season Sale,,
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2021-01-01,2021-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2021-03-15,2021-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2021-03-15,2021-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2021-03-15,2021-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2021-03-15,2021-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2021-03-15,2021-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,T-shirts and Tops
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Skirts and Shorts
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Dresses and Jumpsuits
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,T-shirts and Polos
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,Pants and Jeans
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Pajamas
+2021-05-01,2021-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Accessories
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Dresses and Jumpsuits
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Shirts and Blouses
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Skirts and Shorts
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Shirts
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Pants and Jeans
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2021-09-01,2021-09-15,0.45,45% discount during our Fall Collection Launch,Children,Coats
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sweaters and Knitwear
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sportswear
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sweaters and Sweatshirts
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sportswear
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Sweaters
+2021-10-01,2021-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Accessories
+2021-11-27,2021-11-27,0.6,60% discount during our Black Friday Mega Sale,,
+2021-12-20,2021-12-31,0.5,50% discount during our Holiday Season Sale,,
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2022-01-01,2022-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2022-03-15,2022-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2022-03-15,2022-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2022-03-15,2022-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2022-03-15,2022-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2022-03-15,2022-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,T-shirts and Tops
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Skirts and Shorts
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Dresses and Jumpsuits
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,T-shirts and Polos
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,Pants and Jeans
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Pajamas
+2022-05-01,2022-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Accessories
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Dresses and Jumpsuits
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Shirts and Blouses
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Skirts and Shorts
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Shirts
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Pants and Jeans
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2022-09-01,2022-09-15,0.45,45% discount during our Fall Collection Launch,Children,Coats
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sweaters and Knitwear
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sportswear
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sweaters and Sweatshirts
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sportswear
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Sweaters
+2022-10-01,2022-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Accessories
+2022-11-27,2022-11-27,0.6,60% discount during our Black Friday Mega Sale,,
+2022-12-20,2022-12-31,0.5,50% discount during our Holiday Season Sale,,
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2023-01-01,2023-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2023-03-15,2023-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2023-03-15,2023-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2023-03-15,2023-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2023-03-15,2023-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2023-03-15,2023-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,T-shirts and Tops
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Skirts and Shorts
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Dresses and Jumpsuits
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,T-shirts and Polos
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,Pants and Jeans
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Pajamas
+2023-05-01,2023-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Accessories
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Dresses and Jumpsuits
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Shirts and Blouses
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Skirts and Shorts
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Shirts
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Pants and Jeans
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2023-09-01,2023-09-15,0.45,45% discount during our Fall Collection Launch,Children,Coats
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sweaters and Knitwear
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sportswear
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sweaters and Sweatshirts
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sportswear
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Sweaters
+2023-10-01,2023-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Accessories
+2023-11-27,2023-11-27,0.6,60% discount during our Black Friday Mega Sale,,
+2023-12-20,2023-12-31,0.5,50% discount during our Holiday Season Sale,,
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2024-01-01,2024-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2024-03-15,2024-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2024-03-15,2024-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2024-03-15,2024-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2024-03-15,2024-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2024-03-15,2024-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,T-shirts and Tops
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Skirts and Shorts
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Feminine,Dresses and Jumpsuits
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,T-shirts and Polos
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Masculine,Pants and Jeans
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Pajamas
+2024-05-01,2024-05-15,0.25,25% discount during our Mid-Spring Refresh Sale,Children,Accessories
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Dresses and Jumpsuits
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Shirts and Blouses
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Feminine,Skirts and Shorts
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Shirts
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Masculine,Pants and Jeans
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Children,"Girl and Boy (1-5 years, 6-14 years)"
+2024-09-01,2024-09-15,0.45,45% discount during our Fall Collection Launch,Children,Coats
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sweaters and Knitwear
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Feminine,Sportswear
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sweaters and Sweatshirts
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Masculine,Sportswear
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Sweaters
+2024-10-01,2024-10-10,0.2,20% discount during our Autumn Essentials Sale,Children,Accessories
+2024-11-27,2024-11-27,0.6,60% discount during our Black Friday Mega Sale,,
+2024-12-20,2024-12-31,0.5,50% discount during our Holiday Season Sale,,
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Coats and Blazers
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Feminine,Sweaters and Knitwear
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Coats and Blazers
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Masculine,Sweaters and Sweatshirts
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Children,Coats
+2025-01-01,2025-01-10,0.4,40% discount during our New Year Winter Sale,Children,Sweaters
+2025-03-15,2025-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Dresses and Jumpsuits
+2025-03-15,2025-03-31,0.35,35% discount during our Early Spring Collection Refresh,Feminine,Shirts and Blouses
+2025-03-15,2025-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,T-shirts and Polos
+2025-03-15,2025-03-31,0.35,35% discount during our Early Spring Collection Refresh,Masculine,Shirts
+2025-03-15,2025-03-31,0.35,35% discount during our Early Spring Collection Refresh,Children,"Girl and Boy (1-5 years, 6-14 years)"
